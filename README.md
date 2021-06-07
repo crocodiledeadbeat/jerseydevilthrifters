@@ -1,1 +1,1 @@
-# jerseydevilthrifters.github.io
+# jerseydevilthrifters site
