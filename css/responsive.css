@@ -120,7 +120,7 @@
         display: none;
     }
     .header_bg {
-        background: #bccec4;
+        background: #bbbbbb;
     }
     .text-bg h1 {
         font-size: 35px;
@@ -159,4 +159,3 @@
         margin-bottom: 30px;
     }
 }
-
